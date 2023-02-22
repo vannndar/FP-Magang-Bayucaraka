@@ -1,0 +1,24 @@
+---
+header: 
+  seq: 57920
+  stamp: 
+    secs: 1676123770
+    nsecs: 695493632
+  frame_id: ''
+coordinate_frame: 1
+type_mask: 7
+position: 
+  x: nan
+  y: nan
+  z: nan
+velocity: 
+  x: 0.0
+  y: 0.0
+  z: -0.0
+acceleration_or_force: 
+  x: -8.029766082763672
+  y: -2.158503293991089
+  z: -0.1135033369064331
+yaw: -1.2968870401382446
+yaw_rate: -0.0
+---
